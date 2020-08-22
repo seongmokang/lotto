@@ -1,0 +1,22 @@
+
+div.text
+{
+	text-align: center;
+	color: white;
+    margin: auto;
+   width: 50%;
+}
+div.button
+{
+   margin: auto;
+   width: 50%;
+}
+div.button input
+{
+	background-color: #3E3D32;
+  color: white;
+  border:none;
+   padding: 5px;
+   width: 100%;
+   font-size: 18px;
+}
